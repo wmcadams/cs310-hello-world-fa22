@@ -1,13 +1,13 @@
 /**
  *
- * @author Your Name
+ * @author William McAdams
  */
 
 public class HelloWorld {
 
     public static void main(String[] args) {
-        Class c1 = new Class1();
-        Class c2 = new Class2();
+        Class Class1 = new Class1();
+        Class Class2 = new Class2();
         System.out.println("Hello, World!");
     }
 
